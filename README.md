@@ -1,150 +1,172 @@
-# 👋 Hi, I'm Ishwar Rai
+<h1 align="center">👋 Hi, I'm Ishwar Rai</h1>
 
+<h3 align="center">
 🎓 MSc International & Luxury Marketing Student at KEDGE Business School, Paris
-🌍 International Student | Aspiring Marketing Professional | Future Entrepreneur
-📍 Paris, France
+</h3>
+
+<h3 align="center">
+🚀 Future Entrepreneur | Marketing & Sales Enthusiast | Open to Internship Opportunities
+</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Location-Paris%2C%20France-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Marketing%20%26%20Sales-Focused-red?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I am a motivated and resourceful marketing student currently pursuing my MSc in International & Luxury Marketing at KEDGE Business School.
+I am a highly motivated MSc International & Luxury Marketing student at KEDGE Business School in Paris.
 
-I enjoy solving problems, conducting market research, understanding consumer behavior, and developing growth strategies. I may be at the beginning of my professional journey, but I am a fast learner who enjoys taking initiative, adapting quickly, and finding solutions independently.
+I am passionate about marketing, sales, consumer behavior, negotiation, and business growth. I enjoy understanding people, building value-driven communication, and finding practical solutions in real-world situations.
 
-I am currently seeking:
+I am currently at the beginning of my professional journey, and I strongly believe that success comes from consistency, learning from rejection, and improving every single day.
 
-* Marketing Internships
-* Brand Management Internships
-* Digital Marketing Internships
-* Market Research Internships
-* Business Development Internships
-* International Marketing Opportunities
+I have faced rejection multiple times, but I see every rejection as feedback — not failure. It pushes me to improve, adapt, and come back stronger.
+
+🔍 Currently seeking opportunities in:
+- Marketing Internships  
+- Sales & Business Development Internships
+- Sales & Client Relationship Internships  
+- Brand Management Internships  
+- Market Research Roles  
+- Retail Marketing & Store Marketing Roles
+- Customer Engagement & Retail Strategy Roles
+- Many more  
 
 ---
 
-## 💡 What I Bring
+## 💡 What Defines Me
 
-✅ Strong Market Research Skills
-
-✅ Consumer Insights & Buyer Persona Development
-
-✅ Go-To-Market Strategy Development
-
-✅ Strategic Thinking & Problem Solving
-
-✅ Adaptability & Quick Learning
-
-✅ Cross-Cultural Communication
-
-✅ Team Collaboration & Leadership
-
-✅ AI Tools & Marketing Technology
+✅ Strong Negotiation & Communication Mindset  
+✅ Sales-Oriented Thinking  
+✅ Resilient & Comfortable with Rejection  
+✅ Fast Learner & Highly Adaptable  
+✅ Problem Solver with Practical Thinking  
+✅ International & Cross-Cultural Mindset  
+✅ Strong Interest in Consumer Psychology  
+✅ Team Player with Leadership Potential  
 
 ---
 
 ## 🎓 Education
 
 ### KEDGE Business School
-
 **MSc International & Luxury Marketing**
-Paris, France | Expected Graduation: 2026
+📍 Paris, France | 🎯 Expected Graduation: 2026
 
 ### Patliputra University
-
 **BA in History & Political Science**
-India | 2023
+📍 India | 🎓 Graduated: 2023
+
+---
+
+## 💼 Professional Experience
+
+### Derivatives Trader Intern
+**Institute of Stock Market | Delhi, India**
+
+- Analyzed market behavior, price trends, and financial patterns to support decision-making
+- Communicated market insights to peers and stakeholders in a clear and structured way
+- Interacted with clients and guided them on basic investment understanding and market conditions
+- Helped explain risk, opportunities, and trading strategies in simple language to non-experts
+- Supported client engagement by addressing queries and building trust through market explanations
+- Developed persuasion and communication skills by discussing investment ideas and market outlook
+- Strengthened analytical thinking, decision-making, and structured problem-solving abilities
+- Worked collaboratively in discussions, sharing insights and improving group understanding
+
+---
+
+### Part-Time Restaurant Team Member
+**Italian Pizza Restaurant | Paris, France**
+
+- Handled customer interactions in a fast-paced environment  
+- Developed communication and persuasion skills  
+- Improved teamwork and adaptability under pressure  
+- Learned real-world customer behavior and service mindset  
 
 ---
 
 ## 🏆 Featured Project
 
-### Corporate Innovation Challenge (KEDGE Business School)
+### Corporate Innovation Challenge – KEDGE Business School
 
-Collaborated with a French startup in the nutri-cosmetics industry.
+Worked with a French startup in the nutri-cosmetics industry.
 
-* Conducted market research and competitor analysis
-* Identified growth opportunities and customer segments
-* Developed a complete Go-To-Market strategy
-* Created B2B sales recommendations
-* Presented findings to company stakeholders
+🔹 Conducted market research & competitor analysis  
+🔹 Identified customer segments & growth opportunities  
+🔹 Built Go-To-Market strategy  
+🔹 Developed B2B positioning approach  
+🔹 Presented strategic recommendations to stakeholders  
 
-🏅 Recognized by KEDGE Business School for innovation and contribution.
-
----
-
-## 💼 Experience
-
-### Derivatives Trader Intern
-
-Institute of Stock Market | Delhi, India
-
-* Analyzed market trends and patterns
-* Simplified complex information for stakeholders
-* Supported decision-making through structured analysis
-* Developed strong analytical and problem-solving abilities
-
----
-
-## 📚 Certifications
-
-* Inbound Marketing Certification
-* Inbound Sales Certification
-* Risk Management & Technical Analysis (Star Trader)
+🏅 Recognized by KEDGE Business School for innovation and impact  
 
 ---
 
 ## 🛠 Skills
 
-### Marketing
+### Marketing & Sales Skills
+- Market Research  
+- Consumer Insights  
+- Buyer Personas  
+- Sales Strategy & Planning 
+- Negotiation Mindset  
+- Brand Strategy  
+- Go-To-Market Strategy  
+- Communication & Storytelling
+- Client Engagement & Interaction
+- Problem-Solving in Customer Situations
+- Cross-Cultural Communication
+- Relationship Building with Clients
+- Product Presentation & Pitching
+- Customer Needs Identification
+- Retail & Fashion Consumer Understanding
+- 
 
-* Market Research
-* Consumer Insights
-* Buyer Personas
-* Brand Strategy
-* Go-To-Market Strategy
-* Competitive Analysis
+### Technical Skills
+- Excel  
+- Canva  
+- Microsoft Office  
+- AI Tools  
+- Market Analysis  
 
-### Digital
-
-* Canva
-* AI Tools
-* Marketing Automation
-* Microsoft Office
-* Excel
-
-### Languages
-
-* English
-* French
-* Hindi
-* Nepali
-
----
-
-## 🌱 Currently Learning
-
-* Google Analytics
-* SEO
-* Performance Marketing
-* Google Ads
-* Salesforce
-* Marketing Analytics
+### Soft Skills
+- Communication  
+- Strategic Thinking  
+- Adaptability  
+- Team Collaboration  
+- Attention to Detail  
+- Problem Solving  
 
 ---
 
-## 🎯 Career Objective
+## 🌍 Languages
 
-I am looking for opportunities where I can learn, contribute, and grow as a marketing professional. I believe curiosity, adaptability, and continuous learning are my greatest strengths.
+🇬🇧 English  
+🇫🇷 French   
+🇮🇳 Hindi  
+🇳🇵 Nepali  
 
 ---
 
-## 📫 Connect With Me
+## 🚀 Entrepreneurial Mindset
 
-📧 Email: [ishwarrai268@gmail.com](mailto:ishwarrai268@gmail.com)
+I am deeply interested in building and contributing to impactful business ideas. I enjoy thinking about real-world problems, customer needs, and scalable solutions through marketing and innovation.
 
-💼 LinkedIn: linkedin.com/in/ishwar-rai
+---
+
+## 📫 Let's Connect
+
+📧 Email: **ishwarrai268@gmail.com**
+
+💼 LinkedIn: **https://www.linkedin.com/in/ishwar-rai-50bb08284/**
 
 📍 Paris, France
 
-⭐ Feel free to connect if you have internship opportunities, marketing projects, or entrepreneurial ideas.
+---
+
+<h3 align="center">
+⭐ Open to Marketing & Sales Related Internship Opportunities | Let’s Connect!
+</h3>
